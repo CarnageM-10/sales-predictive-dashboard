@@ -1,4 +1,5 @@
 # Dashboard Ventes Qlik Sense + IA Générative
+data : https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download
 
 Projet : Dashboard interactif Qlik Sense qui analyse les ventes e-commerce et utilise ChatGPT pour générer automatiquement des insights et recommandations business.
 
